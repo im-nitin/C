@@ -51,4 +51,4 @@ To compile and run any of these C files on your local machine, you will need a C
 **1. Clone the repository:**
 ```bash
 git clone [https://github.com/im-nitin/C.git](https://github.com/im-nitin/C.git)
-cd YOUR_REPO_NAME/Simple\ Algorithms
+cd "C/Simple Algorithms"
