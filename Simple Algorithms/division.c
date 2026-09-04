@@ -6,16 +6,17 @@ Program to get input and divide two numbers.
 
 int main(){
 
-    int a;
-    int b;
+    float a;
+    float b;
 
     printf("Enter the first number:");
-    scanf("%d", &a);
+    scanf("%f", &a);
 
     printf("Enter the second number:");
-    scanf("%d", &b);
+    scanf("%f", &b);
 
-    int c = a / b;
+    float c = a / b;
 
-    printf("Result: %d:", c);
+    printf("Result: %f:", c);
+    return 0;
 }
