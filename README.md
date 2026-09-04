@@ -15,7 +15,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Language C" />
     <img src="https://img.shields.io/badge/Compiler-GCC-F34F29?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC Compiler" />
-    <img src="https://img.shields.io/badge/Status-Actively_Learning-brightgreen?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Actively_Learning_&_Commiting-brightgreen?style=for-the-badge" alt="Status" />
   </p>
 
 </div>
