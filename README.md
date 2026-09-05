@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=c" alt="C Language Logo" width="80" height="80" />
   </a>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%EA%9C%B0%E1%B4%9C%C9%B4%E1%B4%85%E1%B4%80%E1%B4%8D%E1%B4%87%C9%B4%E1%B4%9B%E1%B4%80%CA%9F%EA%9C%B1+%E1%B4%8F%EA%9C%B0+%E1%B4%84+%E1%B4%98%CA%80%E1%B4%8F%C9%A2%CA%80%E1%B4%80%E1%B4%8D%E1%B4%8D%C9%AA%C9%B4%C9%A2" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%EA%9C%B0%E1%B4%9C%C9%B4%E1%B4%85%E1%B4%80%E1%B4%8D%E1%B4%87%C9%B4%E1%B4%9B%E1%B4%80%CA%9F%EA%9C%B1+%E1%B4%8F%EA%9C%B0+%E1%B4%84+%E1%B4%98%CA%80%E1%B4%8F%C9%A2%CA%80%E1%B4%80%E1%B4%8D%E1%B4%8D%C9%AA%C9%B4%C9%A2" alt="Typing SVG" /></a>
 
   <p align="center">
     <strong>A collection of my C programming algorithms, logic building exercises, and academic codes for my B.Tech CSE (AI & DS).</strong>
