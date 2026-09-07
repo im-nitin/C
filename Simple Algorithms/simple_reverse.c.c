@@ -1,3 +1,5 @@
+//Simple program to reverse a two-digit number
+
 #include<stdio.h>
 
 int main(){
