@@ -21,5 +21,6 @@ a = b;
 b = temp;
 
 printf("Swapped Values: a = %d, b = %d\n", a,b);
+return 0;
 
 }

@@ -20,4 +20,6 @@ int main(){
         printf("Pass");
     }
 
+return 0;
+
 }

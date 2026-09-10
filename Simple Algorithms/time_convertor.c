@@ -21,4 +21,5 @@ int main(){
     printf("Hours: %d \n", hours);
     printf("Minutes: %d \n", min);          
     printf("Seconds: %d \n", sec);
+    return 0;
 }   

@@ -14,4 +14,5 @@ int main(){
     int d = b + c;
 
     printf("Sum of the digits is: %d", d);
+    return 0;
 }

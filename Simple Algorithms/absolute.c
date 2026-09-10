@@ -19,5 +19,5 @@ int main(){
         printf("The absolute value is: %d", a);
     }
 
-    
+    return 0;
 }

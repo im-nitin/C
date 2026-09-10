@@ -18,4 +18,6 @@ int main(){
     } else {
         printf("You cannot vote");
     }
+
+    return 0;
 }

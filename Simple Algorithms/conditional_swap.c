@@ -20,4 +20,5 @@ if(x>y){
 
     printf("x=%d, y=%d, z=%d \n", x, y, z);
     printf("Sum: %d", sum);
+    return 0;
 }

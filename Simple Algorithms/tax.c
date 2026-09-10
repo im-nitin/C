@@ -20,4 +20,5 @@ int main(){
     printf("Original Price: %f \n", price);
     printf("Tax Amount: %f \n", tax_amount);
     printf("Final Price: %f \n", final);
+    return 0;
 }

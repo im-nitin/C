@@ -13,5 +13,6 @@ int main(){
         printf("%d is a Leap Year", year);
     }else{
             printf("%d is not a Leap Year", year);
-        }
-    }
+        }   
+    return 0;
+}

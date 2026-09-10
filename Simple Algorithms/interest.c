@@ -19,4 +19,5 @@ int main(){
     float d = c/100;
 
     printf("Simple Interest: %f", d);
+    return 0;
 }

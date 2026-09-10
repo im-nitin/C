@@ -19,6 +19,6 @@ int main(){
     int d = (a+b+c)/3;
 
     printf("Average: %d", d);
-    
+    return 0;
 
 }
