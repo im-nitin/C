@@ -24,7 +24,7 @@
 ## 📌 OVERVIEW
 
 This repository tracks my progress while learning the fundamentals of C programming. The examples focus on variables, input and output, arithmetic, conditionals, and basic problem-solving.
-
+<!-- 
 ## 📂 SIMPLE ALGORITHMS
 
 All examples are stored in the [`Simple Algorithms`](Simple%20Algorithms) directory. Each program is a standalone C file with its own `main` function.
@@ -43,7 +43,7 @@ All examples are stored in the [`Simple Algorithms`](Simple%20Algorithms) direct
 | [`sum.c`](Simple%20Algorithms/sum.c) | Adds two predefined integers. | Variables, assignment, `printf` |
 | [`swap.c`](Simple%20Algorithms/swap.c) | Swaps two integers using a temporary variable. | Assignment, temporary storage |
 | [`tax.c`](Simple%20Algorithms/tax.c) | Calculates tax and the final price of a product. | Percentages, `float`, arithmetic |
-| [`time_convertor.c`](Simple%20Algorithms/time_convertor.c) | Converts days into hours, minutes, and seconds. | Unit conversion, arithmetic |
+| [`time_convertor.c`](Simple%20Algorithms/time_convertor.c) | Converts days into hours, minutes, and seconds. | Unit conversion, arithmetic | -->
 
 ## ⚙️ HOW TO RUN
 
