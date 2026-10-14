@@ -13,11 +13,10 @@ int main(){
     printf("Enter a letter: ");
     scanf("%c", &ch);
 
-    int n = (int)ch;
 
-    if(n >= 65 && n <= 90){
+    if(ch >= 65 && ch <= 90){
         printf("Letter is capital");
-    } else if(n >= 97 && n <= 122) {
+    } else if(ch >= 97 && ch <= 122) {
         printf("Letter is small");
     } else {
         printf("Invalid Input");
