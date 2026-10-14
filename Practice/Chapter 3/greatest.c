@@ -25,7 +25,8 @@ int main(){
     else if(d>a && d>b && d>c) greatest = d;
     else printf("Invalid Input");
 
-    printf("Greatest Number: %d", greatest);
+    printf("Greatest Number: %d\n", greatest);
+    printf("%p", &greatest);
 
 return 0;
 }

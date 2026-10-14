@@ -8,7 +8,7 @@ Author: Nitin Kumar (im-nitin)
  
 int main(){
  
-    int ch;
+    char ch;
 
     printf("Enter a letter: ");
     scanf("%c", &ch);
