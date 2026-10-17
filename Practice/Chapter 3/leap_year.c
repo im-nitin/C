@@ -1,3 +1,9 @@
+//Documentation
+/*
+File: leap_year.c
+Description: Program to check whether a given year is a leap year.
+Author: Nitin Kumar (im-nitin)
+*/
 #include<stdio.h>
  
 int main(){

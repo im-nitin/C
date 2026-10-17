@@ -1,8 +1,9 @@
+//Documentation
 /*
-Q. Write a program to find out whether a student is pass or fail; if it requires total 40% and at least 33% in each subject to pass. 
-Assume 3 subjects and take marks as an input from the user.
- */
-
+File: result.c
+Description: Program to determine pass or fail status based on subject marks and overall percentage.
+Author: Nitin Kumar (im-nitin)
+*/
 #include<stdio.h>
  
 int main(){

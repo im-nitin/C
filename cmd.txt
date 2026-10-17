@@ -1,0 +1,1 @@
+Get-ChildItem -Path 'C:\Users\nitin\OneDrive\Documents\C\Practice' -Recurse -File -Filter *.exe | Remove-Item -Force; Get-ChildItem -Path 'C:\Users\nitin\OneDrive\Documents\C\Practice' -Recurse -File -Filter *.exe | Select-Object FullName

@@ -1,3 +1,9 @@
+//Documentation
+/*
+File: c.c
+Description: Program demonstrating the use of assignment inside an if condition.
+Author: Nitin Kumar (im-nitin)
+*/
 #include<stdio.h>
  
 int main(){

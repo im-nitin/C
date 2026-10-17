@@ -1,3 +1,9 @@
+//Documentation
+/*
+File: sum.c
+Description: Program to sum the digits of a three-digit number.
+Author: Nitin Kumar (im-nitin)
+*/
 #include<stdio.h>
  
 int main(){

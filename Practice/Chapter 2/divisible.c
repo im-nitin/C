@@ -1,3 +1,9 @@
+//Documentation
+/*
+File: divisible.c
+Description: Program to check whether a number is divisible by 97.
+Author: Nitin Kumar (im-nitin)
+*/
 #include<stdio.h>
  
 int main(){

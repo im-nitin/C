@@ -1,7 +1,7 @@
 //Documentation
 /*
 File: small_capital.c
-Description: Program to find wether a letter is small or capital
+Description: Program to check whether a letter is uppercase or lowercase.
 Author: Nitin Kumar (im-nitin)
 */
 #include<stdio.h>

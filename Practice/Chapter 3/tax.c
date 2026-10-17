@@ -1,11 +1,9 @@
+//Documentation
 /*
-Calculate income tax paid by an employee to the Government as per the slabs mentioned below:
-Income Slab       Tax
-2.5L-5.0L         5%
-5.0L - 10.0L      20%
-Above 10L         30%
+File: tax.c
+Description: Program to calculate income tax based on government income-tax slabs.
+Author: Nitin Kumar (im-nitin)
 */
-
 #include<stdio.h>
  
 int main(){

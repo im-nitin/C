@@ -1,7 +1,7 @@
 //Documentation
 /*
-File: greatest.c       
-Description: PRogram to find the greatest number out of 4 numbers
+File: greatest.c
+Description: Program to find the greatest number out of four numbers.
 Author: Nitin Kumar (im-nitin)
 */
 #include<stdio.h>

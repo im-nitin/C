@@ -1,3 +1,9 @@
+//Documentation
+/*
+File: switch_calc.c
+Description: Calculator program using switch-case statements for basic arithmetic operations.
+Author: Nitin Kumar (im-nitin)
+*/
 #include <stdio.h>
 
 int main() {

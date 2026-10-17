@@ -1,5 +1,9 @@
-//Switch case control
-
+//Documentation
+/*
+File: switch.c
+Description: Program to demonstrate switch-case control flow.
+Author: Nitin Kumar (im-nitin)
+*/
 #include<stdio.h>
  
 int main(){
