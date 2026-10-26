@@ -1,7 +1,7 @@
-//Documentation
+//Documentation: 
 /*
-File: 
-Description: 
+File: sum.c
+Description: Program to calculate the sum of the digits of a number.
 Author: Nitin Kumar (im-nitin)
 */
 #include<stdio.h>
